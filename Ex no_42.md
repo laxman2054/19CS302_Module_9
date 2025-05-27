@@ -1,5 +1,5 @@
 # EX 42 C program to write a fuctions to perform push,pop,display,peek in stack using array.
-## DATE:07-05-2025
+## DATE:
 ## AIM:
 To write a fuctions to perform push,pop,display,peek in stack using array.
 
